@@ -1,5 +1,5 @@
 
-#EXTM3U url-tvg=""
+
 <!DOCTYPE html>
 <html lang="es" >
 <head>
@@ -22,6 +22,7 @@ document.getElementById('identif15').innerHTML = unescape('%3C%73%74%79%6C%65%20
 <source src="" type="application/x-mpegURL" size="480"></source>
 </video></div>
 <center>
+  #EXTM3U url-tvg=""
 <ul id="playlist">
 <li><a href="go:lol"><img src="URL IMAGEN CANAL" width="100px" height="90px" style="background:#fff;border-radius:7px;"><h5 class="xsplus">NOMBRE DEL CANAL</h5></a></li><br><br>
 <li><a href="https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8"><img src="https://i.imgur.com/DEUR7mB.png" width="100px" height="90px" style="background:#fff;border-radius:7px;"><h5 class="xsplus">CASCADA TV</h5></a></li><br><br>
